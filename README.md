@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Ilya Mihailov 👋
 
-<!--
-**mihailovily/mihailovily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I enjoy building practical software and learning by shipping real projects.
+- 🌱 Current focus: improving engineering workflows, automation, and product quality.
+- 🤝 Open to collaboration on useful, well-crafted open source ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- AI & developer tooling
+- Backend systems and APIs
+- Automation and productivity
+- Product-minded software engineering
+
+## Featured Projects
+> Replace these with your real repositories.
+
+- **Project Name 1** — Short one-line description of the value it provides.  
+  `Tech:` Language/Framework • [Repository](https://github.com/mihailovily/REPO_NAME)
+- **Project Name 2** — Short one-line description of the value it provides.  
+  `Tech:` Language/Framework • [Repository](https://github.com/mihailovily/REPO_NAME)
+- **Project Name 3** — Short one-line description of the value it provides.  
+  `Tech:` Language/Framework • [Repository](https://github.com/mihailovily/REPO_NAME)
+
+## Let’s Connect
+- GitHub: [@mihailovily](https://github.com/mihailovily)
+- Add your preferred contact channel here (LinkedIn, email, etc.)
